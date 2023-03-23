@@ -7,10 +7,10 @@ This guide will cover how to translate Cosmic Cat!
 1. Open a shell of your choice.
 2. Change the current working directory to the location where you want the cloned directory.
 3. Type `git clone`, followed by the repo's URL. [Git can be installed from here.](https://git-scm.com/downloads)</br>
-`$ git clone https://github.com/ciulinuwu/Ciulinations`
+`$ git clone https://github.com/thistlecafe/cosmic-cat-i18n`
 4. Press **Enter** to create your local clone.
 5. Change the current working directory to the cloned folder > i18n</br>
-`$ cd Ciulinations/i18n`
+`$ cd cosmic-cat-i18n/i18n`
 6. Duplicate `en.json` and rename it to ISO 639-1 Language Code of your language. [ISO 639-1 Language Codes can be looked up here](https://www.loc.gov/standards/iso639-2/php/code_list.php)</br>
 `$ cp en.json <ISO 639-1 code here>.json`
 7. Open `<ISO 639-1 code here>.json` in an IDE of your choice.
@@ -18,7 +18,10 @@ This guide will cover how to translate Cosmic Cat!
 9. Navigate to `Line 3` and add your GitHub username to the `author` field.
 
 ## Submitting
-(NEEDS RESEARCH)
+1. Create a fork of this repo.
+2. Upload your translated file into the `i18n` folder of your fork.
+3. Create a pull request on the original repo.
+4. Wait for a developer to interview. Meanwhile, have this piece of cake 🎂
 
 ## Rules
 * Do **NOT** use machine translation.
