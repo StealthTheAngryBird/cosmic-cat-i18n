@@ -1,0 +1,245 @@
+{
+    "language": "ru",
+    "author": "StealthTheAngryBird",
+    "json": {
+        "footer": {
+            "about": "О Youtube",
+            "press": "Пресса и блоги",
+            "copyright": "Авторское право",
+            "creators": "Авторы и партнеры",
+            "advertising": "Реклама",
+            "dev": "Разработчики",
+            "terms": "Условия",
+            "privacy": "Конфиденциальность",
+            "safety": "Безопасность",
+            "feedback": "Сообщить об ошибке",
+            "testtube": "Новые функции!"
+        },
+        "global": {
+            "browse": "Категории",
+            "upload": "Добавить видео",
+            "help": "Справка",
+            "loading": {
+                "main": "Загрузка...",
+                "comment": "Загрузка комментария",
+                "suggestions": "Загрузка рекомендаций..."
+            },
+            "channel": "Канал",
+            "seeall": "Просмотреть все",
+            "search": "Поиск",
+            "browsechannels": "Каталог каналов"
+        },
+        "playlists": {
+            "header": {
+                "channelAuthor": "от %s"
+            },
+            "body": {
+                "primaryPane": {
+                    "items": {
+                        "video": {
+                            "by":"от %s"
+                        }
+                    }
+                },
+                "secondaryPane": {
+                    "aboutSection": {
+                        "about": "О %s",
+                        "creatorLinks": {
+                            "playlists": "%s плейлисты от %r",
+                            "videos": "Показать все видео"
+                        }
+                    }
+                }
+            }
+        },
+        "channels": {
+            "3": {
+                "creatorBar": {
+                    "analytics": "Аналитика",
+                    "videomanager": "Управление видео",
+                    "settings": "Настройки канала"
+                },
+                "header": {
+                    "stats": {
+                        "subscriber": "подписчик",
+                        "subscribers": "подписчиков",
+                        "videoview": "просмотр",
+                        "videoviews": "просмотров"
+                    },
+                    "tabs": {
+                        "featured": "Главная",
+                        "videos": "Видео",
+                        "search": "Поиск по каналу"
+                    }
+                },
+                "body": {
+                    "secondaryPane": {
+                        "userProfile": {
+                            "about": "О %s",
+                            "createdBy": {
+                                "by": "от %s"
+                            }
+                        }
+                    }
+                }
+            },
+            "2": {
+                "modules": {
+                    "userProfile": {
+                        "title": "Профиль",
+                        "cards": {
+                            "name": "Имя:",
+                            "views": "Просмотры:",
+                            "joined": "Присоединился(-ась):",
+                            "country": "Страна:",
+                            "description": " "
+                        }
+                    }
+                }
+            }
+        },
+        "search": {
+            "playlists": {
+                "by": "от %s"
+            },
+            "channels": {
+                "by": "от %s"
+            }
+        },
+        "stats": {
+            "likesdislikes": "%s понравилост, %r не понравилось"
+        },
+        "buttons": {
+            "watch": {
+                "showmore": "Показать больше",
+                "showless": "Показать меньше",
+                "like": "Нравится",
+                "dislike": "Не нравится",
+                "addto": "Добавить к",
+                "share": "Поделиться"
+            },
+            "subscribe": {
+                "subscribe": "Подписаться",
+                "subscribed": "Вы подписаны",
+                "unsubscribe": "Отписаться"
+            },
+            "suggestions": {
+                "loadmoresuggestions": "Показать больше рекомендаций"
+            },
+            "comments": {
+                "post": "Запись"
+            },
+            "showmore": "Показать больше",
+            "showless": "Показать меньше",
+            "signin": "Войти"
+        },
+        "suggestions": {
+            "loading": "Загрузка рекомендаций..."
+        },
+        "tooltip": {
+            "watch": {
+                "ilikethis": "Мне это нравится",
+                "idislikethis": "Мне это не нравится",
+                "addto": "Добавить в понравившиеся или в плейлист",
+                "share": "Поделиться или создать вставку",
+                "flag": "Пожаловаться",
+                "statistics": "Показать статистику видео",
+                "clicktobe": "Нажмите чтобы быть уведомненными о выходе новых видео на этом канале",
+                "transcript": "Интерактивная стенограмма"
+            },
+            "channels2": {
+                "subscribe": {
+                    "subscribe": "Нажмите чтобы быть уведомненными о выходе новых видео на этом канале",
+                    "subscribed": " "
+                }
+            }
+        },
+        "watch": {
+            "watchInfo": {
+                "category": "Категория:",
+                "tags": "Тэги:",
+                "license": "Лицензия:"
+            },
+            "comments": {
+                "charactersremain": "%s символов осталось",
+                "secondsremain": "%s секунд осталось до создания записи",
+                "loading": "Загрузка комментария...",
+                "allcomments": "Все комментарии",
+                "topcomments": "Самые популярные комментарии",
+                "respond": "Ответить на это видео..."
+            },
+            "tags": "Тэги",
+            "license": "Лицензия",
+            "uploaderinfo": "Загружено %s на %r",
+            "category": "Категория",
+            "from": "Автор: %s",
+            "by": "от %s"
+        },
+        "home": {
+            "feed": {
+                "uploadedavideo": "Пользователь %s добавил(-а) видео",
+                "islive": "%s в прямом эфире"
+            }
+        },
+        "uploadmonth": {
+            "jan": "Янв",
+            "feb": "Фев",
+            "mar": "Мар",
+            "apr": "Апр",
+            "may": "Май",
+            "jun": "Июн",
+            "jul": "Июл",
+            "aug": "Авг",
+            "sep": "Сен",
+            "oct": "Окт",
+            "nov": "Ноя",
+            "dec": "Дек"
+        },
+        "about": {
+            "country": "Страна:",
+            "membersince": "Присоединился(-ась):",
+            "viewedcounts": "Просмотров:",
+            "viewedcount": "Просмотр:",
+            "sub": "Подписчик:",
+            "subs": "Подписчиков:"
+        },
+        "customtag": {
+            "age": "Возраст:",
+            "occupation": "Профессия:"
+        },
+        "personal": {
+            "mychannel": "Мой канал",
+            "videos": "Видео",
+            "likes": "Понравившиеся",
+            "history": "История",
+            "watchlater": "Смотреть позже",
+            "videomanager": "Управление видео",
+            "youtubesettings": "Настройки YouTube",
+            "subscriptions": "Подписки",
+            "profile": "Профиль",
+            "privacy": "Конфиденциальность",
+            "settings": "Настройки",
+            "signout": "Выйти",
+            "switchaccount": "Сменить аккаунт",
+            "googleaccount": "Аккаунт Google"
+        },
+        "browse": {
+            "mostviewed": "Самые просматриваемые сегодня",
+            "recommended": "Рекомендованные для вас"
+        },
+        "guide": {
+            "fromyt": "Новинки",
+            "trending": "Набирающие популярность",
+            "popular": "Популярные",
+            "music": "Музыка",
+            "live": "В эфире",
+            "gadgets": "Игры",
+            "gaming": "Компьютерные игры",
+            "film": "Фильмы и анимация",
+            "news": "Новости",
+            "sports": "Спорт",
+            "education": "Обучение",
+            "howto": "Красота и мода"
+        }
+    }
+}
